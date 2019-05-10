@@ -1,0 +1,14 @@
+[
+  {
+    "family": "Raleway",
+    "fonts": [
+      {
+        "asset": "fonts/Raleway-Regular.ttf"
+      },
+      {
+        "asset": "fonts/Raleway-Italic.ttf",
+        "style": "italic"
+      }
+    ]
+  }
+]
